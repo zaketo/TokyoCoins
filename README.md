@@ -1,2 +1,1 @@
-# TokyoCoins
-TokyoCoins
+Bot Coins, Team, LeaderBoard
